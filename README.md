@@ -1,4 +1,4 @@
-# Tree-Methods
+# Tree Methods
 
 These are some short projects I made using tree-based methods: Classification and Regression Trees (CART), Random Forests, Boosted Trees.
 
